@@ -1,4 +1,4 @@
-module tb_async_counter_2bit;
+module tb;
 
   reg clk;
   reg rst;
